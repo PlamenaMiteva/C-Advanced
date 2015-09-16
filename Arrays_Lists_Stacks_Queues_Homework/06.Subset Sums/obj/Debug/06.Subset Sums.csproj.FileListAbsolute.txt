@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\06.Subset Sums\bin\Debug\06.Subset Sums.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\06.Subset Sums\bin\Debug\06.Subset Sums.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\06.Subset Sums\bin\Debug\06.Subset Sums.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\06.Subset Sums\obj\Debug\06.Subset Sums.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\06.Subset Sums\obj\Debug\06.Subset Sums.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\06.Subset Sums\obj\Debug\06.Subset Sums.pdb

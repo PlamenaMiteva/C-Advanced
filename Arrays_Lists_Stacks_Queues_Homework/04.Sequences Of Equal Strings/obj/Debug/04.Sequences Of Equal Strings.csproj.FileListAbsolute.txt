@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\04.Sequences Of Equal Strings\bin\Debug\04.Sequences Of Equal Strings.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\04.Sequences Of Equal Strings\bin\Debug\04.Sequences Of Equal Strings.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\04.Sequences Of Equal Strings\bin\Debug\04.Sequences Of Equal Strings.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\04.Sequences Of Equal Strings\obj\Debug\04.Sequences Of Equal Strings.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\04.Sequences Of Equal Strings\obj\Debug\04.Sequences Of Equal Strings.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\04.Sequences Of Equal Strings\obj\Debug\04.Sequences Of Equal Strings.pdb

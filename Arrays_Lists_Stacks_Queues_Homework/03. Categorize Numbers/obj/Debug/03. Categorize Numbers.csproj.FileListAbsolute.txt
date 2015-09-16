@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\03. Categorize Numbers\bin\Debug\_03.Categorize_Numbers.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\03. Categorize Numbers\bin\Debug\_03.Categorize_Numbers.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\03. Categorize Numbers\bin\Debug\_03.Categorize_Numbers.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\03. Categorize Numbers\obj\Debug\03. Categorize Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\03. Categorize Numbers\obj\Debug\_03.Categorize_Numbers.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\03. Categorize Numbers\obj\Debug\_03.Categorize_Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\02.SortArrayNumbersUsingSelectionSort\bin\Debug\02.SortArrayNumbersUsingSelectionSort.exe.config
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\02.SortArrayNumbersUsingSelectionSort\bin\Debug\02.SortArrayNumbersUsingSelectionSort.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\02.SortArrayNumbersUsingSelectionSort\bin\Debug\02.SortArrayNumbersUsingSelectionSort.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\02.SortArrayNumbersUsingSelectionSort\obj\Debug\02.SortArrayNumbersUsingSelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\02.SortArrayNumbersUsingSelectionSort\obj\Debug\02.SortArrayNumbersUsingSelectionSort.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\02.SortArrayNumbersUsingSelectionSort\obj\Debug\02.SortArrayNumbersUsingSelectionSort.pdb

@@ -1,0 +1,3 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\Arrays_Lists_Stacks_Queues_Homework\bin\Debug\Arrays_Lists_Stacks_Queues_Homework.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\Arrays_Lists_Stacks_Queues_Homework\obj\Debug\Arrays_Lists_Stacks_Queues_Homework.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\Arrays_Lists_Stacks_Queues_Homework\obj\Debug\Arrays_Lists_Stacks_Queues_Homework.pdb

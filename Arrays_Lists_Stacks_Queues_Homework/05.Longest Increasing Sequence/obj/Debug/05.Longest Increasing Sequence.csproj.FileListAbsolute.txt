@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\05.Longest Increasing Sequence\bin\Debug\05.Longest Increasing Sequence.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\05.Longest Increasing Sequence\bin\Debug\05.Longest Increasing Sequence.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\05.Longest Increasing Sequence\bin\Debug\05.Longest Increasing Sequence.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\05.Longest Increasing Sequence\obj\Debug\05.Longest Increasing Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\05.Longest Increasing Sequence\obj\Debug\05.Longest Increasing Sequence.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Arrays_Lists_Stacks_Queues_Homework\05.Longest Increasing Sequence\obj\Debug\05.Longest Increasing Sequence.pdb
