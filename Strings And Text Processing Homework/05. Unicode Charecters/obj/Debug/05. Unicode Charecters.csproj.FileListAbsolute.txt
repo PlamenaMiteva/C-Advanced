@@ -1,0 +1,5 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\05. Unicode Charecters\bin\Debug\_05.Unicode_Charecters.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\05. Unicode Charecters\bin\Debug\_05.Unicode_Charecters.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\05. Unicode Charecters\bin\Debug\_05.Unicode_Charecters.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\05. Unicode Charecters\obj\Debug\_05.Unicode_Charecters.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\05. Unicode Charecters\obj\Debug\_05.Unicode_Charecters.pdb

@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\06. Palindromes\bin\Debug\_06.Palindromes.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\06. Palindromes\bin\Debug\_06.Palindromes.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\06. Palindromes\bin\Debug\_06.Palindromes.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\06. Palindromes\obj\Debug\06. Palindromes.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\06. Palindromes\obj\Debug\_06.Palindromes.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\06. Palindromes\obj\Debug\_06.Palindromes.pdb

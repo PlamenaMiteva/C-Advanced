@@ -1,0 +1,5 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\03. Count Substring Occurences\bin\Debug\_03.Count_Substring_Occurences.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\03. Count Substring Occurences\bin\Debug\_03.Count_Substring_Occurences.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\03. Count Substring Occurences\bin\Debug\_03.Count_Substring_Occurences.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\03. Count Substring Occurences\obj\Debug\_03.Count_Substring_Occurences.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Strings And Text Processing Homework\03. Count Substring Occurences\obj\Debug\_03.Count_Substring_Occurences.pdb
