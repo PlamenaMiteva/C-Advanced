@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\04. Copy Binary File\bin\Debug\_04.Copy_Binary_File.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\04. Copy Binary File\bin\Debug\_04.Copy_Binary_File.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\04. Copy Binary File\bin\Debug\_04.Copy_Binary_File.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\04. Copy Binary File\obj\Debug\04. Copy Binary File.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\04. Copy Binary File\obj\Debug\_04.Copy_Binary_File.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\04. Copy Binary File\obj\Debug\_04.Copy_Binary_File.pdb

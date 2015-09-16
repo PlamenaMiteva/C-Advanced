@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\05. Slicing File\bin\Debug\_05.Slicing_File.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\05. Slicing File\obj\Debug\05. Slicing File.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\05. Slicing File\bin\Debug\_05.Slicing_File.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\05. Slicing File\bin\Debug\_05.Slicing_File.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\05. Slicing File\obj\Debug\_05.Slicing_File.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\05. Slicing File\obj\Debug\_05.Slicing_File.pdb

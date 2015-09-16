@@ -1,0 +1,5 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\02. Line Numbers\bin\Debug\_02.Line_Numbers.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\02. Line Numbers\bin\Debug\_02.Line_Numbers.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\02. Line Numbers\bin\Debug\_02.Line_Numbers.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\02. Line Numbers\obj\Debug\_02.Line_Numbers.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Stream And Files Homework\02. Line Numbers\obj\Debug\_02.Line_Numbers.pdb
