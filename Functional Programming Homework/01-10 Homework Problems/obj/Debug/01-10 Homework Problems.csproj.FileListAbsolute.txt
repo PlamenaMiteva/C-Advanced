@@ -1,0 +1,5 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\01-10 Homework Problems\bin\Debug\01-10 Homework Problems.exe.config
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\01-10 Homework Problems\bin\Debug\01-10 Homework Problems.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\01-10 Homework Problems\bin\Debug\01-10 Homework Problems.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\01-10 Homework Problems\obj\Debug\01-10 Homework Problems.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\01-10 Homework Problems\obj\Debug\01-10 Homework Problems.pdb

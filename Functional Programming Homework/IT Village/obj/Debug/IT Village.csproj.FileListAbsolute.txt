@@ -1,0 +1,6 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\IT Village\bin\Debug\IT Village.exe.config
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\IT Village\bin\Debug\IT Village.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\IT Village\bin\Debug\IT Village.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\IT Village\obj\Debug\IT Village.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\IT Village\obj\Debug\IT Village.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\IT Village\obj\Debug\IT Village.pdb

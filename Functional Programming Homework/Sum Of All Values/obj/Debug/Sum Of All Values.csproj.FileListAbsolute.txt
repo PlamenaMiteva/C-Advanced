@@ -1,0 +1,6 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\Sum Of All Values\bin\Debug\Sum Of All Values.exe.config
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\Sum Of All Values\bin\Debug\Sum Of All Values.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\Sum Of All Values\bin\Debug\Sum Of All Values.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\Sum Of All Values\obj\Debug\Sum Of All Values.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\Sum Of All Values\obj\Debug\Sum Of All Values.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\Sum Of All Values\obj\Debug\Sum Of All Values.pdb

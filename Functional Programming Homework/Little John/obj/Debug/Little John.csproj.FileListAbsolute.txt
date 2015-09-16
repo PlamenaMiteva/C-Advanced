@@ -1,0 +1,5 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\Little John\bin\Debug\Little John.exe.config
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\Little John\bin\Debug\Little John.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\Little John\bin\Debug\Little John.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\Little John\obj\Debug\Little John.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Functional Programming Homework\Little John\obj\Debug\Little John.pdb
