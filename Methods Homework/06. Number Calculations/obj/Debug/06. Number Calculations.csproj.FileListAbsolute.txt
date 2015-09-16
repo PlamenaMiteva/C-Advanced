@@ -1,0 +1,5 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\06. Number Calculations\bin\Debug\_06.Number_Calculations.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\06. Number Calculations\bin\Debug\_06.Number_Calculations.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\06. Number Calculations\bin\Debug\_06.Number_Calculations.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\06. Number Calculations\obj\Debug\_06.Number_Calculations.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\06. Number Calculations\obj\Debug\_06.Number_Calculations.pdb

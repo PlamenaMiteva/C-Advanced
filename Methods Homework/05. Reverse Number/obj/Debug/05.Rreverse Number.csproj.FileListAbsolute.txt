@@ -1,0 +1,5 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\05. reverse Number\bin\Debug\_05.reverse_Number.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\05. reverse Number\bin\Debug\_05.reverse_Number.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\05. reverse Number\bin\Debug\_05.reverse_Number.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\05. reverse Number\obj\Debug\_05.reverse_Number.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\05. reverse Number\obj\Debug\_05.reverse_Number.pdb

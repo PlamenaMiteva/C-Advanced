@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\03. Larger Than Neigbours\bin\Debug\_03.Larger_Than_Neigbours.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\03. Larger Than Neigbours\bin\Debug\_03.Larger_Than_Neigbours.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\03. Larger Than Neigbours\bin\Debug\_03.Larger_Than_Neigbours.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\03. Larger Than Neigbours\obj\Debug\03. Larger Than Neigbours.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\03. Larger Than Neigbours\obj\Debug\_03.Larger_Than_Neigbours.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\03. Larger Than Neigbours\obj\Debug\_03.Larger_Than_Neigbours.pdb

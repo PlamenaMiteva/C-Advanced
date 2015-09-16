@@ -1,0 +1,5 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\02. Last Digit Of Number\bin\Debug\_02.Last_Digit_Of_Number.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\02. Last Digit Of Number\bin\Debug\_02.Last_Digit_Of_Number.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\02. Last Digit Of Number\bin\Debug\_02.Last_Digit_Of_Number.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\02. Last Digit Of Number\obj\Debug\_02.Last_Digit_Of_Number.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\02. Last Digit Of Number\obj\Debug\_02.Last_Digit_Of_Number.pdb

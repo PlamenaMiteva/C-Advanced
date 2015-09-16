@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\07. Generic Array Sort\bin\Debug\_07.Generic_Array_Sort.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\07. Generic Array Sort\bin\Debug\_07.Generic_Array_Sort.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\07. Generic Array Sort\bin\Debug\_07.Generic_Array_Sort.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\07. Generic Array Sort\obj\Debug\07. Generic Array Sort.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\07. Generic Array Sort\obj\Debug\_07.Generic_Array_Sort.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Methods Homework\07. Generic Array Sort\obj\Debug\_07.Generic_Array_Sort.pdb
