@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Regular Expressions Homework\02. Replace a Tag\bin\Debug\_02.Replace_a_Tag.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Regular Expressions Homework\02. Replace a Tag\bin\Debug\_02.Replace_a_Tag.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Regular Expressions Homework\02. Replace a Tag\bin\Debug\_02.Replace_a_Tag.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Regular Expressions Homework\02. Replace a Tag\obj\Debug\02. Replace a Tag.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Regular Expressions Homework\02. Replace a Tag\obj\Debug\_02.Replace_a_Tag.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Regular Expressions Homework\02. Replace a Tag\obj\Debug\_02.Replace_a_Tag.pdb

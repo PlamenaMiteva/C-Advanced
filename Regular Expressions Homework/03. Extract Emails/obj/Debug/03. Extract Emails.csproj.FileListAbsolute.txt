@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Regular Expressions Homework\03. Extract Emails\bin\Debug\_03.Extract_Emails.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Regular Expressions Homework\03. Extract Emails\bin\Debug\_03.Extract_Emails.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Regular Expressions Homework\03. Extract Emails\bin\Debug\_03.Extract_Emails.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Regular Expressions Homework\03. Extract Emails\obj\Debug\03. Extract Emails.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Regular Expressions Homework\03. Extract Emails\obj\Debug\_03.Extract_Emails.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Regular Expressions Homework\03. Extract Emails\obj\Debug\_03.Extract_Emails.pdb
