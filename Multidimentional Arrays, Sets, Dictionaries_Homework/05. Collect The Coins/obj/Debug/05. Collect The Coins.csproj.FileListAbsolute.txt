@@ -1,0 +1,5 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\05. Collect The Coins\bin\Debug\_05.Collect_The_Coins.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\05. Collect The Coins\bin\Debug\_05.Collect_The_Coins.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\05. Collect The Coins\bin\Debug\_05.Collect_The_Coins.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\05. Collect The Coins\obj\Debug\_05.Collect_The_Coins.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\05. Collect The Coins\obj\Debug\_05.Collect_The_Coins.pdb

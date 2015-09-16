@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\01. Fill The Matrix\bin\Debug\_01.Fill_The_Matrix.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\01. Fill The Matrix\bin\Debug\_01.Fill_The_Matrix.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\01. Fill The Matrix\bin\Debug\_01.Fill_The_Matrix.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\01. Fill The Matrix\obj\Debug\01. Fill The Matrix.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\01. Fill The Matrix\obj\Debug\_01.Fill_The_Matrix.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\01. Fill The Matrix\obj\Debug\_01.Fill_The_Matrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\03. Matrix Schuffling\bin\Debug\_03.Matrix_Schuffling.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\03. Matrix Schuffling\bin\Debug\_03.Matrix_Schuffling.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\03. Matrix Schuffling\bin\Debug\_03.Matrix_Schuffling.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\03. Matrix Schuffling\obj\Debug\03. Matrix Schuffling.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\03. Matrix Schuffling\obj\Debug\_03.Matrix_Schuffling.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\03. Matrix Schuffling\obj\Debug\_03.Matrix_Schuffling.pdb

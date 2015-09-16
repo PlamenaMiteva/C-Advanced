@@ -1,0 +1,6 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\08. Night Life\bin\Debug\_08.Night_Life.exe.config
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\08. Night Life\bin\Debug\_08.Night_Life.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\08. Night Life\bin\Debug\_08.Night_Life.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\08. Night Life\obj\Debug\08. Night Life.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\08. Night Life\obj\Debug\_08.Night_Life.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\08. Night Life\obj\Debug\_08.Night_Life.pdb

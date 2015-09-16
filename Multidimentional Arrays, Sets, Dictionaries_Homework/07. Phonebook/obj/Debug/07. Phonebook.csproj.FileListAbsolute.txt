@@ -1,0 +1,5 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\07. Phonebook\bin\Debug\_07.Phonebook.exe.config
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\07. Phonebook\bin\Debug\_07.Phonebook.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\07. Phonebook\bin\Debug\_07.Phonebook.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\07. Phonebook\obj\Debug\_07.Phonebook.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\07. Phonebook\obj\Debug\_07.Phonebook.pdb

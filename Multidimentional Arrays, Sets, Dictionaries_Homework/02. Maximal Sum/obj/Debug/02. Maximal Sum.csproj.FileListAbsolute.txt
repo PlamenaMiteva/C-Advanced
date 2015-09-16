@@ -1,0 +1,5 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\02. Maximal Sum\obj\Debug\_02.Maximal_Sum.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\02. Maximal Sum\obj\Debug\_02.Maximal_Sum.pdb

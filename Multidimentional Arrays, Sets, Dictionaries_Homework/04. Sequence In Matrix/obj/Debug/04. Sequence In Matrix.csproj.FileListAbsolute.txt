@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\04. Sequence In Matrix\bin\Debug\_04.Sequence_In_Matrix.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\04. Sequence In Matrix\bin\Debug\_04.Sequence_In_Matrix.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\04. Sequence In Matrix\bin\Debug\_04.Sequence_In_Matrix.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\04. Sequence In Matrix\obj\Debug\04. Sequence In Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\04. Sequence In Matrix\obj\Debug\_04.Sequence_In_Matrix.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Multidimentional Arrays, Sets, Dictionaries_Homework\04. Sequence In Matrix\obj\Debug\_04.Sequence_In_Matrix.pdb
