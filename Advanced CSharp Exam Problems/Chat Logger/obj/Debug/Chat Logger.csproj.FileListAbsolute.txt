@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Chat Logger\bin\Debug\Chat Logger.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Chat Logger\bin\Debug\Chat Logger.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Chat Logger\bin\Debug\Chat Logger.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Chat Logger\obj\Debug\Chat Logger.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Chat Logger\obj\Debug\Chat Logger.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Chat Logger\obj\Debug\Chat Logger.pdb

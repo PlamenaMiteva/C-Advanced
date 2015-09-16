@@ -1,0 +1,6 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Parachute\bin\Debug\Parachute.exe.config
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Parachute\bin\Debug\Parachute.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Parachute\bin\Debug\Parachute.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Parachute\obj\Debug\Parachute.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Parachute\obj\Debug\Parachute.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Parachute\obj\Debug\Parachute.pdb

@@ -1,0 +1,6 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\The Numbers\bin\Debug\The Numbers.exe.config
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\The Numbers\bin\Debug\The Numbers.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\The Numbers\bin\Debug\The Numbers.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\The Numbers\obj\Debug\The Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\The Numbers\obj\Debug\The Numbers.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\The Numbers\obj\Debug\The Numbers.pdb

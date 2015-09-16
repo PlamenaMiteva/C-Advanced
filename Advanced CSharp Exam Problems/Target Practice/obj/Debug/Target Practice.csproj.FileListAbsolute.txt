@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Target Practice\bin\Debug\Target Practice.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Target Practice\bin\Debug\Target Practice.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Target Practice\bin\Debug\Target Practice.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Target Practice\obj\Debug\Target Practice.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Target Practice\obj\Debug\Target Practice.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Target Practice\obj\Debug\Target Practice.pdb

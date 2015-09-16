@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Text Transformer\bin\Debug\Text Transformer.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Text Transformer\bin\Debug\Text Transformer.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Text Transformer\bin\Debug\Text Transformer.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Text Transformer\obj\Debug\Text Transformer.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Text Transformer\obj\Debug\Text Transformer.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Text Transformer\obj\Debug\Text Transformer.pdb

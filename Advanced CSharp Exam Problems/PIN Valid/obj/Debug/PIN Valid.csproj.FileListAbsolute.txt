@@ -1,0 +1,6 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\PIN Valid\bin\Debug\PIN Valid.exe.config
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\PIN Valid\bin\Debug\PIN Valid.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\PIN Valid\bin\Debug\PIN Valid.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\PIN Valid\obj\Debug\PIN Valid.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\PIN Valid\obj\Debug\PIN Valid.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\PIN Valid\obj\Debug\PIN Valid.pdb

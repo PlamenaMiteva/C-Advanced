@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Clearing Commands\bin\Debug\Clearing Commands.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Clearing Commands\bin\Debug\Clearing Commands.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Clearing Commands\bin\Debug\Clearing Commands.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Clearing Commands\obj\Debug\Clearing Commands.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Clearing Commands\obj\Debug\Clearing Commands.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Clearing Commands\obj\Debug\Clearing Commands.pdb

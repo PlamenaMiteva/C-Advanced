@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Command Interpreter\bin\Debug\Command Interpreter.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Command Interpreter\bin\Debug\Command Interpreter.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Command Interpreter\bin\Debug\Command Interpreter.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Command Interpreter\obj\Debug\Command Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Command Interpreter\obj\Debug\Command Interpreter.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Command Interpreter\obj\Debug\Command Interpreter.pdb

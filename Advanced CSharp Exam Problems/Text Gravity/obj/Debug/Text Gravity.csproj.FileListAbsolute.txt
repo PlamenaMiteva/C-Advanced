@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Text Gravity\bin\Debug\Text Gravity.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Text Gravity\bin\Debug\Text Gravity.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Text Gravity\bin\Debug\Text Gravity.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Text Gravity\obj\Debug\Text Gravity.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Text Gravity\obj\Debug\Text Gravity.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Text Gravity\obj\Debug\Text Gravity.pdb

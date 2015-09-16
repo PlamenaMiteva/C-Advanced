@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Phone Numbers\bin\Debug\Phone Numbers.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Phone Numbers\bin\Debug\Phone Numbers.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Phone Numbers\bin\Debug\Phone Numbers.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Phone Numbers\obj\Debug\Phone Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Phone Numbers\obj\Debug\Phone Numbers.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Phone Numbers\obj\Debug\Phone Numbers.pdb

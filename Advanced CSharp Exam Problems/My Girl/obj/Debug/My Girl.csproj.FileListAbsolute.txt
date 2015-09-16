@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\My Girl\bin\Debug\My Girl.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\My Girl\bin\Debug\My Girl.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\My Girl\bin\Debug\My Girl.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\My Girl\obj\Debug\My Girl.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\My Girl\obj\Debug\My Girl.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\My Girl\obj\Debug\My Girl.pdb

@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\X Removal\bin\Debug\X Removal.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\X Removal\bin\Debug\X Removal.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\X Removal\bin\Debug\X Removal.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\X Removal\obj\Debug\X Removal.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\X Removal\obj\Debug\X Removal.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\X Removal\obj\Debug\X Removal.pdb

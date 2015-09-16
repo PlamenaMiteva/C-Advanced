@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Plus Remove\bin\Debug\Plus Remove.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Plus Remove\bin\Debug\Plus Remove.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Plus Remove\bin\Debug\Plus Remove.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Plus Remove\obj\Debug\Plus Remove.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Plus Remove\obj\Debug\Plus Remove.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Plus Remove\obj\Debug\Plus Remove.pdb

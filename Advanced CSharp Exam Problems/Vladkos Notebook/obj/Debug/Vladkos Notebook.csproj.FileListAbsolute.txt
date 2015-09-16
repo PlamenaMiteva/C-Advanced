@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Vladkos Notebook\bin\Debug\Vladkos Notebook.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Vladkos Notebook\bin\Debug\Vladkos Notebook.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Vladkos Notebook\bin\Debug\Vladkos Notebook.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Vladkos Notebook\obj\Debug\Vladkos Notebook.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Vladkos Notebook\obj\Debug\Vladkos Notebook.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Vladkos Notebook\obj\Debug\Vladkos Notebook.pdb

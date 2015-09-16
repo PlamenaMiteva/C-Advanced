@@ -1,0 +1,6 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Biggest Table Row\bin\Debug\Biggest Table Row.exe.config
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Biggest Table Row\bin\Debug\Biggest Table Row.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Biggest Table Row\bin\Debug\Biggest Table Row.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Biggest Table Row\obj\Debug\Biggest Table Row.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Biggest Table Row\obj\Debug\Biggest Table Row.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Biggest Table Row\obj\Debug\Biggest Table Row.pdb

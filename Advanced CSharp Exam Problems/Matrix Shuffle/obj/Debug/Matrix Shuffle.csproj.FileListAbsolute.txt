@@ -1,0 +1,6 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Matrix Shuffle\bin\Debug\Matrix Shuffle.exe.config
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Matrix Shuffle\bin\Debug\Matrix Shuffle.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Matrix Shuffle\bin\Debug\Matrix Shuffle.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Matrix Shuffle\obj\Debug\Matrix Shuffle.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Matrix Shuffle\obj\Debug\Matrix Shuffle.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Advanced C Exam Problems\Matrix Shuffle\obj\Debug\Matrix Shuffle.pdb

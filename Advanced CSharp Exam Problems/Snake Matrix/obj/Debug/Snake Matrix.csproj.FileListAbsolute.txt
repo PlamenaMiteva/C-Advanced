@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Snake Matrix\bin\Debug\Snake Matrix.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Snake Matrix\bin\Debug\Snake Matrix.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Snake Matrix\bin\Debug\Snake Matrix.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Snake Matrix\obj\Debug\Snake Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Snake Matrix\obj\Debug\Snake Matrix.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Snake Matrix\obj\Debug\Snake Matrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\String Matrix Rotation\bin\Debug\String Matrix Rotation.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\String Matrix Rotation\obj\Debug\String Matrix Rotation.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\String Matrix Rotation\bin\Debug\String Matrix Rotation.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\String Matrix Rotation\bin\Debug\String Matrix Rotation.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\String Matrix Rotation\obj\Debug\String Matrix Rotation.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\String Matrix Rotation\obj\Debug\String Matrix Rotation.pdb

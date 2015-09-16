@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Uppercase Words\bin\Debug\Uppercase Words.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Uppercase Words\obj\Debug\Uppercase Words.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Uppercase Words\bin\Debug\Uppercase Words.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Uppercase Words\bin\Debug\Uppercase Words.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Uppercase Words\obj\Debug\Uppercase Words.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Advanced C Exam Problems\Uppercase Words\obj\Debug\Uppercase Words.pdb
